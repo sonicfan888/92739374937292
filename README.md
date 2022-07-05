@@ -1,4 +1,3 @@
 # Dave-and-Bambi-Amongussy-Edition-source
-the amogussy source code (no build leak or you go l)
-
-Coming Soon
+Welcome to the AMONGUSSY EDITION source code! Don't make any leaked builds.
+# Or else I'll rip your fucking nuts off!
