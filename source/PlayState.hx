@@ -498,6 +498,25 @@ class PlayState extends MusicBeatState
 				}
 		}
 
+		{
+			case 'luigiBG': //Week L nice to go to an picnic eh gay luigi
+				var bg:BGSprite = new BGSprite('luigiBG', -600, -200, 0.9, 0.9);
+				add(bg);
+
+				/*
+				new DynamicShaderHandler('Example', false);
+				var shaderArray = new Array<BitmapFilter>();
+				shaderArray.push(new ShaderFilter(animatedShaders['Example'].shader));
+				camGame.setFilters(shaderArray);
+				*/
+				if (!ClientPrefs.lowQuality)
+				{
+				var bg:BGSprite = new BGSprite('luigiBG', -600, -200, 0.9, 0.9);
+				add(bg);
+				}
+		}
+
+
 		if(isPixelStage) {
 			introSoundsSuffix = '-pixel';
 		}
