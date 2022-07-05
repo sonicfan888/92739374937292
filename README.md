@@ -1,4 +1,8 @@
 # Dave-and-Bambi-Amongussy-Edition-source
 Welcome to the AMONGUSSY EDITION source code! Don't make any leaked builds.
 # Or else I'll rip your fucking nuts off!
-Do what she said. - sado - dfjk
+Do what she said. - sado
+
+
+
+sado im going to shit your pants - dfjk
