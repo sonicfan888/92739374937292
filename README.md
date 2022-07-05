@@ -6,3 +6,5 @@ Do what she said. - sado
 
 
 sado im going to shit your pants - dfjk
+
+I am the god damn flying fuck, you will never ride my damn plain - sado
