@@ -499,7 +499,7 @@ class PlayState extends MusicBeatState
 		}
 
 		{
-			case 'luigiBG': //Week L nice to go to an picnic eh gay luigi
+		 {	case 'luigiBG': //Week L nice to go to an picnic eh gay luigi
 				var bg:BGSprite = new BGSprite('luigiBG', -600, -200, 0.9, 0.9);
 				add(bg);
 
@@ -516,7 +516,7 @@ class PlayState extends MusicBeatState
 				}
 		}
 
-
+	}
 		if(isPixelStage) {
 			introSoundsSuffix = '-pixel';
 		}
