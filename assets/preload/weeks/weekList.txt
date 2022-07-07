@@ -1,4 +1,8 @@
 tutorial
+weekL
+dnb2
+softbfhatred
+obungaweek
 week1
 week2
 week3

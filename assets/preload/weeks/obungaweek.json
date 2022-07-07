@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"OBUNGA",
+			"obunga",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "obunga",
+	"weekBefore": "tutorial",
+	"storyName": "",
+	"weekName": "obunga",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": true,
+	"difficulties": ""
+}

@@ -1,0 +1,85 @@
+{
+	"songs": [
+		[
+			"Loogi",
+			"luigi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Jumpin",
+			"luigi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"64bit",
+			"luigi64",
+			[
+				0,
+				173,
+				60
+			]
+		],
+		[
+			"No More RUnning",
+			"mx",
+			[
+				255,
+				0,
+				40
+			]
+		],
+		[
+			"I am GOd",
+			"lordx",
+			[
+				0,
+				175,
+				255
+			]
+		],
+		[
+			"Wah",
+			"wah",
+			[
+				215,
+				135,
+				0
+			]
+		],
+		[
+			"AMONGUSSY",
+			"godform",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "luigi",
+	"weekBefore": "tutorial",
+	"storyName": "VS LUIGI",
+	"weekName": "weekL",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"SussyBalls x 30 Billion = Fun Mod",
+			"dave",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Phone Break Sound Effect",
+			"bamb",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Cranking Fornite 90's",
+			"tris",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"Synonym for Cheating or Unfair",
+			"expunged",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "dnb2",
+	"weekBefore": "tutorial",
+	"storyName": "Dave And Bambi Encore",
+	"weekName": "encore",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"fuck-a you!",
+			"luigi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"beeping bitch",
+			"bf",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"disgrace to humanity",
+			"expunged",
+			[
+				255,
+				13,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "softbf",
+	"weekBefore": "tutorial",
+	"storyName": "I WANT TO FUCKING MURDER SOFT BF WITH A BASEBALL BAT",
+	"weekName": "hatred",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}
