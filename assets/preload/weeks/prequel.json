@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				255,
+				0,
+				113
+			]
+		],
+		[
+			"Sparring Match",
+			"luigi",
+			[
+				6,
+				255,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "prequel",
+	"weekBefore": "tutorial",
+	"storyName": "Courtyard Calibration (Not literally)",
+	"weekName": "prequel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

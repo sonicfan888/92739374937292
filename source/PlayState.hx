@@ -498,7 +498,13 @@ class PlayState extends MusicBeatState
 				}
 		}
 
+		case 'luigiBG': //Week L
+		var bg:BGSprite = new BGSprite('luigiBG', -600, -200, 0.9, 0.9);
+		add(bg);
 
+		case 'gmconstruct': //Week obama....what
+		var bg:BGSprite = new BGSprite('darkroom', -600, -200, 0.9, 0.9);
+		add(bg);
 	
 
 		
